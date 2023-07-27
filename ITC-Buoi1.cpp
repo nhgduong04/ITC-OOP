@@ -25,10 +25,10 @@ class PS {
             cout << this->tuso << "/" << this->mauso << endl;
         }
 
-        PS sum(int x) {
-            PS t;
-            t.tuso = 
-        }
+        // PS sum(int x) {
+        //     PS t;
+        //     t.tuso = 
+        // }
 };
 
 int main() {
